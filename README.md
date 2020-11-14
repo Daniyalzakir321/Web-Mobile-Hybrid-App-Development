@@ -39,7 +39,7 @@
 13) [Instant Web Messenger Responsive](https://github.com/Daniyalzakir321/Chat-Web-App) 
      *  *[Navigate To Live Link](https://chat-app-assignment-13.web.app/)*
       
-14) [OLX Replica](https://github.com/Daniyalzakir321/OLX-App) 
+14) [OLX Replica  [ In React ]](https://github.com/Daniyalzakir321/OLX-App) 
      *  *[Navigate To Live Link](https://olx-web-app-assignment-14.web.app/)*
 
 
